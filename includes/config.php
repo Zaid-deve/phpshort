@@ -1,0 +1,6 @@
+<?php
+
+// DEFAULTS
+
+
+$APP_URI = $_SERVER['REQUEST_SCHEME'] .'://' . $_SERVER['HTTP_HOST'];
